@@ -173,7 +173,7 @@ const berken = {
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,javascript,nodejs,dotnet,mysql,git,github" />
+<img src="https://skillicons.dev/icons?i=typescript" />
 
 </p>
 
