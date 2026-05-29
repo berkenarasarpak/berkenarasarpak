@@ -79,7 +79,7 @@ const berken = {
 ## ⚙️ Backend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,cs" />
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,cs,php" />
 </p>
 
 ---
@@ -125,16 +125,6 @@ const berken = {
 
 
 
-
-# 🎯 Goals
-
-* Build scalable backend systems
-* Improve fullstack architecture knowledge
-* Learn advanced ASP.NET Core
-* Improve frontend development skills
-* Build production-ready applications
-* Continuously improve problem solving skills
-
 ---
 
 # 🌍 Connect With Me
@@ -148,16 +138,6 @@ const berken = {
 <a href="https://github.com/berkenarasarpak">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</p>
-
----
-
-# 🧠 Learning Journey
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,javascript,nodejs,dotnet,mysql,git,github" />
 
 </p>
 
