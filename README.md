@@ -110,25 +110,18 @@ const berken = {
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=berkenarasarpak&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=berkenarasarpak&theme=github_dark" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkenarasarpak&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=berkenarasarpak&theme=github_dark" />
 
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=berkenarasarpak&theme=tokyonight&hide_border=true"/>
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=berkenarasarpak&theme=github_dark" />
 
 </div>
+
 
 ---
 
