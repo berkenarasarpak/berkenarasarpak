@@ -171,13 +171,11 @@ const berken = {
 
 # 🧠 Learning Journey
 
-```txt
-Frontend Development   ██████████░░░░░░
-Backend Development    █████████████░░░
-REST API Development   ██████████████░░
-Database Management    ███████████░░░░░
-Problem Solving        ████████████░░░░
-```
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,javascript,nodejs,dotnet,mysql,git,github" />
+
+</p>
 
 ---
 
