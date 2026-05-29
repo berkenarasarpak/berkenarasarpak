@@ -123,17 +123,7 @@ const berken = {
 </div>
 
 
----
 
-# 📊 Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=berkenarasarpak&theme=tokyonight" />
-
-</div>
-
----
 
 # 🎯 Goals
 
