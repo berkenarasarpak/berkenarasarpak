@@ -2,7 +2,7 @@
 
 # 🚀 Berken Aras Arpak
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Backend+Developer;Node.js+%7C+.NET+Developer;Next.js+Developer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Fullstack+Developer;Backend+Developer;Node.js+%7C+.NET+Developer;Next.js+Developer;Always+Learning+New+Things" />
 
 <br>
 
@@ -10,18 +10,22 @@
 <img src="https://img.shields.io/badge/Backend-Developer-0A66C2?style=for-the-badge">
 <img src="https://img.shields.io/badge/Türkiye-Developer-0A66C2?style=for-the-badge">
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=berkenarasarpak&label=Profile+Views&color=0A66C2&style=for-the-badge" />
+
 </div>
 
 ---
 
 # 👨‍💻 About Me
 
-```js
+```js id="92j3kd"
 const berken = {
     location: "Türkiye",
     role: "Fullstack Developer",
     experience: "Since 2020",
-    
+
     backend: [
         "C#",
         ".NET",
@@ -41,6 +45,14 @@ const berken = {
 
     database: [
         "MySQL"
+    ],
+
+    tools: [
+        "Git",
+        "GitHub",
+        "Postman",
+        "Visual Studio",
+        "VS Code"
     ],
 
     currentlyLearning: [
@@ -102,9 +114,9 @@ const berken = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=berkenarasarpak&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=berkenarasarpak&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkenarasarpak&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkenarasarpak&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
@@ -117,6 +129,27 @@ const berken = {
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=berkenarasarpak&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
+
+# 📊 Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=berkenarasarpak&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🎯 Goals
+
+* Build scalable backend systems
+* Improve fullstack architecture knowledge
+* Learn advanced ASP.NET Core
+* Improve frontend development skills
+* Build production-ready applications
+* Continuously improve problem solving skills
 
 ---
 
@@ -136,22 +169,19 @@ const berken = {
 
 ---
 
-# 🧠 Learning Goals
+# 🧠 Learning Journey
 
-* Advanced ASP.NET Core
-* Clean Architecture
-* Scalable Backend Systems
-* TypeScript
-* Next.js
-* Fullstack Development
+```txt
+Frontend Development   ██████████░░░░░░
+Backend Development    █████████████░░░
+REST API Development   ██████████████░░
+Database Management    ███████████░░░░░
+Problem Solving        ████████████░░░░
+```
 
 ---
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=berkenarasarpak&label=Profile+Views&color=0A66C2&style=for-the-badge" />
-
-<br><br>
 
 ### 🚀 Building myself one project at a time.
 
