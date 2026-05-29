@@ -23,6 +23,7 @@
 ```js id="92j3kd"
 const berken = {
     location: "Türkiye",
+    age: "17",
     role: "Fullstack Developer",
     experience: "Since 2020",
 
